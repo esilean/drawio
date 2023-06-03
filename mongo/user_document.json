@@ -1,0 +1,13 @@
+{
+    "id": "1",
+    "username": "Leandro Bevilaqua",
+    "email": "le.bevilaqua@gmail.com",
+    "password": "cryp",
+    "active": true,
+    "image": "/src/image.png",
+    "roles": [
+        "assets: create", "assets: delete"
+    ],
+    "created_at": "2023-06-01 22:00:00",
+    "updated_at": "2023-06-01 22:00:00"
+}

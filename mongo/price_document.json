@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "ticker": "VALE3",
+        "reference_date": "2023-06-01",
+        "price": 23.00,
+        "updated_at": "2023-06-01 21:21:00"
+    },
+    {
+        "id": "1",
+        "ticker": "ITUB4",
+        "reference_date": "2023-06-01",
+        "price": 25.00,
+        "updated_at": "2023-06-01 21:21:00"
+    }
+]

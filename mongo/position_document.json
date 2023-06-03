@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "user_id": "1",
+        "ticker": "VALE3",
+        "quantity": 100,
+        "registered_at": "2023-06-01 22:00:00"
+    },
+    {
+        "id": "2",
+        "user_id": "1",
+        "ticker": "VALE3",
+        "quantity": 300,
+        "registered_at": "2023-06-02 22:00:00"
+    }
+]

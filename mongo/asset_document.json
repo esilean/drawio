@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "ticker": "VALE3",
+        "name": "VALE",
+        "website": "vale.com.br",
+        "image": "/src/vale.png",
+        "created_at": "2023-06-01 22:00:00",
+        "updated_at": "2023-06-01 22:00:00"
+    },
+    {
+        "id": "2",
+        "ticker": "ITUB3",
+        "name": "Itaú",
+        "website": "itau.com.br",
+        "image": "/src/itau.png",
+        "created_at": "2023-06-01 22:00:00",
+        "updated_at": "2023-06-01 22:00:00"
+    }
+]

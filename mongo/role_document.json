@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "role": "assets: create"
+    },
+    {
+        "id": "2",
+        "role": "assets: delete"
+    },
+    {
+        "id": "3",
+        "role": "users: delete"
+    }
+]
