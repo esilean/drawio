@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+body {
+    @apply bg-zinc-900 h-full m-0 p-0 overflow-hidden;
+}
+
+#__next {
+    @apply h-full m-0 p-0;
+}
+
+html {
+    @apply h-full m-0 p-0;
+}
